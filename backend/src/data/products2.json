@@ -1,0 +1,834 @@
+[
+  {
+    "name": "sony wh-1000xm4 wireless noise cancelling headphones",
+    "description": "Industry-leading noise canceling with dual noise sensor technology. Up to 30-hour battery life with quick charging.",
+    "price": 299.99,
+    "stock": 85,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/sony_wh1000xm4_1", "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/sony_wh1000xm4_2", "url": "https://images.unsplash.com/photo-1583394838336-acd977736f90?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Audio & Headphones",
+    "seller": "rajesh",
+    "numOfReviews": 1543,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "bose quietcomfort 45 bluetooth headphones",
+    "description": "High-fidelity audio with adjustable noise cancellation. Up to 24 hours of battery life and comfortable over-ear fit.",
+    "price": 279.00,
+    "stock": 60,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/bose_qc45_1", "url": "https://images.unsplash.com/photo-1599669454699-248893623440?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/bose_qc45_2", "url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Audio & Headphones",
+    "seller": "rajesh",
+    "numOfReviews": 890,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "jbl flip 6 portable waterproof speaker",
+    "description": "Bold JBL original pro sound in a portable, IP67 waterproof and dustproof design. 12 hours of playtime.",
+    "price": 99.95,
+    "stock": 150,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/jbl_flip6_1", "url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/jbl_flip6_2", "url": "https://images.unsplash.com/photo-1589003077984-894e133dabab?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Audio & Headphones",
+    "seller": "rajesh",
+    "numOfReviews": 2100,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "sennheiser hd 599 open back headphone",
+    "description": "Natural hearing experience with ergonomic acoustic refinement. Premium design with padded headband.",
+    "price": 199.99,
+    "stock": 40,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/sennheiser_hd599_1", "url": "https://images.unsplash.com/photo-1545127398-14699f92334b?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/sennheiser_hd599_2", "url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Audio & Headphones",
+    "seller": "rajesh",
+    "numOfReviews": 342,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "apple airpods pro 2nd generation",
+    "description": "Up to 2x more active noise cancellation. Adaptive transparency and personalized spatial audio.",
+    "price": 249.00,
+    "stock": 200,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/airpods_pro2_1", "url": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/airpods_pro2_2", "url": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Audio & Headphones",
+    "seller": "rajesh",
+    "numOfReviews": 4500,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "samsung 55-inch 4k smart tv",
+    "description": "Crystal clear 4K UHD resolution with HDR. PurColor technology and built-in streaming apps.",
+    "price": 499.99,
+    "stock": 25,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/samsung_55tv_1", "url": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/samsung_55tv_2", "url": "https://images.unsplash.com/photo-1601944179066-29786cb9d32a?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Electronics",
+    "seller": "rajesh",
+    "numOfReviews": 870,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "lg c3 oled 65 inch tv",
+    "description": "Self-lit OLED evo technology for perfect blacks. AI Picture Pro and Dolby Vision IQ.",
+    "price": 1599.99,
+    "stock": 10,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/lg_oled_1", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3mIz_GKSORamNhfS19Ws27rIW2DRLbEISMOVtHlY2ijijmpdvU9bKLU&s=10" },
+      { "public_id": "products/lg_oled_2", "url": "https://www.lg.com/content/dam/channel/wcms/in/images/tv/feature/oled2023/TV-OLED-G3-08-Best-Sound-Mobile-1.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "rajesh",
+    "numOfReviews": 420,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "amazon echo dot 5th gen",
+    "description": "Compact smart speaker with Alexa. Vibrant sound and built-in temperature sensor.",
+    "price": 49.99,
+    "stock": 300,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/echo_dot5_1", "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/echo_dot5_2", "url": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Electronics",
+    "seller": "rajesh",
+    "numOfReviews": 5200,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "anker 622 maggo wireless charger",
+    "description": "Portable magnetic wireless charger for iPhone. 5000mAh built-in battery.",
+    "price": 59.99,
+    "stock": 120,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/anker_622_1", "url": "https://images.unsplash.com/photo-1633053699034-459674171bfb?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/anker_622_2", "url": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Electronics",
+    "seller": "rajesh",
+    "numOfReviews": 650,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "logitech mx master 3s wireless mouse",
+    "description": "Quiet clicks, 8K DPI sensor. Fast scrolling and customizable buttons.",
+    "price": 99.99,
+    "stock": 90,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/logi_mx3_1", "url": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/logi_mx3_2", "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Electronics",
+    "seller": "rajesh",
+    "numOfReviews": 1200,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "samsung galaxy s23 ultra 5g",
+    "description": "6.8-inch Dynamic AMOLED display, 200MP camera, and Snapdragon 8 Gen 2 processor.",
+    "price": 1199.99,
+    "stock": 45,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/galaxy_s23_1", "url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/galaxy_s23_2", "url": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "rajesh",
+    "numOfReviews": 3400,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "iphone 15 pro max",
+    "description": "Titanium design, A17 Pro chip, and a 48MP main camera with 5x telephoto zoom.",
+    "price": 1199.00,
+    "stock": 60,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/iphone15_pro_1", "url": "https://images.unsplash.com/photo-1696446702183-be9605cd6b1d?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/iphone15_pro_2", "url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "rajesh",
+    "numOfReviews": 5600,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "google pixel 8 pro",
+    "description": "6.7-inch Super Actua display, Tensor G3 chip, and advanced AI photo editing features.",
+    "price": 999.00,
+    "stock": 35,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/pixel_8pro_1", "url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/pixel_8pro_2", "url": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "rajesh",
+    "numOfReviews": 1800,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "oneplus 12r 5g",
+    "description": "Snapdragon 8 Gen 2, 120Hz Super Fluid AMOLED display, and 100W SUPERVOOC charging.",
+    "price": 499.99,
+    "stock": 75,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/oneplus_12r_1", "url": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/oneplus_12r_2", "url": "https://images.unsplash.com/photo-1556656793-08538906a9f8?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "rajesh",
+    "numOfReviews": 940,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "motorola edge 40 neo",
+    "description": "Dual 50MP camera system, 144Hz pOLED display, and IP68 water resistance.",
+    "price": 349.99,
+    "stock": 110,
+    "ratings": 4.3,
+    "images": [
+      { "public_id": "products/moto_edge40_1", "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/moto_edge40_2", "url": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "rajesh",
+    "numOfReviews": 450,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "apple macbook air m2 13 inch",
+    "description": "Strikingly thin design, blazing fast M2 chip, and up to 18 hours of battery life.",
+    "price": 1099.00,
+    "stock": 50,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/macbook_air_m2_1", "url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/macbook_air_m2_2", "url": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Computers & Tablets",
+    "seller": "rajesh",
+    "numOfReviews": 3200,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "dell xps 15 9530 laptop",
+    "description": "15.6-inch InfinityEdge touch display, Intel Core i7, 16GB RAM, NVIDIA RTX 4050.",
+    "price": 1899.99,
+    "stock": 30,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/dell_xps_1", "url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/dell_xps_2", "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Computers & Tablets",
+    "seller": "rajesh",
+    "numOfReviews": 452,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "microsoft surface pro 9",
+    "description": "13-inch PixelSense touch display, Intel Core i5, and versatile kickstand design.",
+    "price": 1299.99,
+    "stock": 40,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/surface_pro9_1", "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PDP-Highlight-Consumer-Pro-9-Platinum-001:VP1-539x440" },
+      { "public_id": "products/surface_pro9_2", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9F9ry8e92M_E_i29KJOOK_FwfTP0hd_a2jYvQ9I2JYuCwPOKxSs4jnk&s=10" }
+    ],
+    "category": "Computers & Tablets",
+    "seller": "rajesh",
+    "numOfReviews": 610,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "apple ipad air 5th generation",
+    "description": "10.9-inch Liquid Retina display with M1 chip. Works with Apple Pencil and Magic Keyboard.",
+    "price": 599.00,
+    "stock": 80,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/ipad_air5_1", "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/ipad_air5_2", "url": "https://images.unsplash.com/photo-1561154464-82e9adf32764?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Computers & Tablets",
+    "seller": "rajesh",
+    "numOfReviews": 1800,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "samsung galaxy tab s9 ultra",
+    "description": "14.6-inch Dynamic AMOLED 2X display, S Pen included, and IP68 water resistance.",
+    "price": 1099.99,
+    "stock": 25,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/tab_s9_ultra_1", "url": "https://images.unsplash.com/photo-1589739900266-43b2843f4c12?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/tab_s9_ultra_2", "url": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Computers & Tablets",
+    "seller": "rajesh",
+    "numOfReviews": 340,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "apple watch series 9 gps 45mm",
+    "description": "S9 SiP, brighter Always-On Retina display, and Double Tap gesture.",
+    "price": 399.00,
+    "stock": 50,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/apple_watch_s9_1", "url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/apple_watch_s9_2", "url": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Wearable Technology",
+    "seller": "rajesh",
+    "numOfReviews": 3210,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "samsung galaxy watch 6 classic",
+    "description": "Rotating bezel design, advanced sleep coaching, and body composition tracking.",
+    "price": 349.99,
+    "stock": 65,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/galaxy_watch6_1", "url": "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/galaxy_watch6_2", "url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Wearable Technology",
+    "seller": "rajesh",
+    "numOfReviews": 980,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "fitbit charge 6 fitness tracker",
+    "description": "Built-in GPS, heart rate sensor, and Google Maps integration.",
+    "price": 159.95,
+    "stock": 140,
+    "ratings": 4.4,
+    "images": [
+      { "public_id": "products/fitbit_charge6_1", "url": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/fitbit_charge6_2", "url": "https://images.unsplash.com/photo-1508355718281-9d9c924d0e45?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Wearable Technology",
+    "seller": "rajesh",
+    "numOfReviews": 1200,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "garmin fenix 7s sapphire solar",
+    "description": "Rugged multisport GPS smartwatch with solar charging and built-in flashlight.",
+    "price": 699.99,
+    "stock": 20,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/garmin_fenix7_1", "url": "https://images.unsplash.com/photo-1620057242255-2f0d60d93cb8?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/garmin_fenix7_2", "url": "https://images.unsplash.com/photo-1557938531-af40df9b5e1c?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Wearable Technology",
+    "seller": "rajesh",
+    "numOfReviews": 310,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "meta quest 3 vr headset",
+    "description": "Mixed reality headset with high-resolution display and Qualcomm Snapdragon XR2 Gen 2.",
+    "price": 499.99,
+    "stock": 45,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/meta_quest3_1", "url": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/meta_quest3_2", "url": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Wearable Technology",
+    "seller": "rajesh",
+    "numOfReviews": 880,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "canon eos r6 mark ii mirrorless camera",
+    "description": "24.2MP full-frame sensor, 40fps continuous shooting, and 6K oversampled 4K video.",
+    "price": 2499.00,
+    "stock": 15,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/canon_r6m2_1", "url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/canon_r6m2_2", "url": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Cameras",
+    "seller": "rajesh",
+    "numOfReviews": 218,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "sony alpha a7 iv mirrorless camera",
+    "description": "33MP full-frame sensor, 4K 60p video, and advanced subject tracking autofocus.",
+    "price": 2199.99,
+    "stock": 20,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/sony_a7iv_1", "url": "https://images.unsplash.com/photo-1606980625931-c5d24c43d70f?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/sony_a7iv_2", "url": "https://images.unsplash.com/photo-1614036417651-efe5912144c0?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Cameras",
+    "seller": "rajesh",
+    "numOfReviews": 350,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "fujifilm x-t5 mirrorless camera",
+    "description": "40MP APS-C sensor, 7-stop in-body image stabilization, and classic retro design.",
+    "price": 1699.00,
+    "stock": 18,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/fuji_xt5_1", "url": "https://images.unsplash.com/photo-1584282422994-3a0c5b54a8e6?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/fuji_xt5_2", "url": "https://images.unsplash.com/photo-1606980625931-c5d24c43d70f?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Cameras",
+    "seller": "rajesh",
+    "numOfReviews": 190,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "gopro hero12 black action camera",
+    "description": "5.3K60 video, HyperSmooth 6.0 stabilization, and waterproof up to 33ft.",
+    "price": 399.00,
+    "stock": 70,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/gopro_12_1", "url": "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/gopro_12_2", "url": "https://images.unsplash.com/photo-1543872084-c7bd3822856f?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Cameras",
+    "seller": "rajesh",
+    "numOfReviews": 540,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "dji osmo pocket 3 creator combo",
+    "description": "1-inch CMOS, 4K/120fps, and built-in 3-axis stabilization. Includes DJI Mic 2.",
+    "price": 519.00,
+    "stock": 40,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/dji_osmo3_1", "url": "https://images.unsplash.com/photo-1611791484670-ce19b801d192?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/dji_osmo3_2", "url": "https://images.unsplash.com/photo-1611988618221-7511b9e05f8e?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Cameras",
+    "seller": "rajesh",
+    "numOfReviews": 220,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "sony playstation 5 slim console",
+    "description": "Ultra-high speed SSD, 4K gaming, and ray tracing capabilities. Slimmer design.",
+    "price": 499.99,
+    "stock": 30,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/ps5_slim_1", "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/ps5_slim_2", "url": "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Video Games & Consoles",
+    "seller": "rajesh",
+    "numOfReviews": 4000,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "xbox series x console",
+    "description": "12 teraflops of processing power, true 4K gaming, and Quick Resume feature.",
+    "price": 499.99,
+    "stock": 25,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/xbox_sx_1", "url": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/xbox_sx_2", "url": "https://images.unsplash.com/photo-1622297845775-5ff3fef71d13?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Video Games & Consoles",
+    "seller": "rajesh",
+    "numOfReviews": 3100,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "nintendo switch oled model",
+    "description": "7-inch OLED screen, enhanced audio, and 64GB internal storage.",
+    "price": 349.99,
+    "stock": 50,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/switch_oled_1", "url": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/switch_oled_2", "url": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3d?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Video Games & Consoles",
+    "seller": "rajesh",
+    "numOfReviews": 2500,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "razer deathadder v3 pro wireless mouse",
+    "description": "Ultra-lightweight design, 30K optical sensor, and 90 hours of battery life.",
+    "price": 149.99,
+    "stock": 85,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/razer_dav3_1", "url": "https://images.unsplash.com/photo-1629429407759-01cd3d7cfb38?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/razer_dav3_2", "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Video Games & Consoles",
+    "seller": "rajesh",
+    "numOfReviews": 650,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "redgear pro wireless gamepad",
+    "description": "Ergonomic design, 2.4GHz wireless connection, and dual vibration motors.",
+    "price": 29.99,
+    "stock": 150,
+    "ratings": 4.2,
+    "images": [
+      { "public_id": "products/redgear_pro_1", "url": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/redgear_pro_2", "url": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Video Games & Consoles",
+    "seller": "rajesh",
+    "numOfReviews": 980,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "nike air force 1 '07 sneakers",
+    "description": "Crisp leather, bold colors, and durable rubber outsole for everyday wear.",
+    "price": 110.00,
+    "stock": 200,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/nike_af1_1", "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/nike_af1_2", "url": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Footwear",
+    "seller": "rajesh",
+    "numOfReviews": 5421,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "adidas ultraboost 22 running shoes",
+    "description": "Responsive BOOST midsole, Primeknit+ upper, and Linear Energy Push system.",
+    "price": 190.00,
+    "stock": 120,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/adidas_ub22_1", "url": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/adidas_ub22_2", "url": "https://images.unsplash.com/photo-1556906781-9a412961c28c?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Footwear",
+    "seller": "rajesh",
+    "numOfReviews": 2100,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "puma rs-x reinvention sneakers",
+    "description": "Retro-futuristic design with mixed materials and chunky sole for maximum comfort.",
+    "price": 100.00,
+    "stock": 90,
+    "ratings": 4.4,
+    "images": [
+      { "public_id": "products/puma_rsx_1", "url": "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/puma_rsx_2", "url": "https://images.unsplash.com/photo-1514989940723-e8e51635da90?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Footwear",
+    "seller": "rajesh",
+    "numOfReviews": 650,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "reebok classic leather sneakers",
+    "description": "Soft leather upper, die-cut EVA midsole, and iconic vintage style.",
+    "price": 74.99,
+    "stock": 140,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/reebok_classic_1", "url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/reebok_classic_2", "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Footwear",
+    "seller": "rajesh",
+    "numOfReviews": 890,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "new balance 574 classic sneakers",
+    "description": "ENCAP midsole technology, suede and mesh upper, and everyday comfort.",
+    "price": 89.99,
+    "stock": 110,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/nb_574_1", "url": "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/nb_574_2", "url": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Footwear",
+    "seller": "rajesh",
+    "numOfReviews": 1230,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "instant pot duo 7-in-1 electric pressure cooker",
+    "description": "7-in-1 functionality, 13 customizable smart programs, and 6-quart capacity.",
+    "price": 99.95,
+    "stock": 200,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/instant_pot_1", "url": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/instant_pot_2", "url": "https://images.unsplash.com/photo-1610450949065-1f2841536c88?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "rajesh",
+    "numOfReviews": 12000,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "ninja foodi personal blender",
+    "description": "1000-watt motor, 18-oz to-go cups, and pulse technology for smoothies.",
+    "price": 79.99,
+    "stock": 150,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/ninja_blender_1", "url": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/ninja_blender_2", "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "rajesh",
+    "numOfReviews": 3400,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "keurig k-mini coffee maker",
+    "description": "Single-serve K-cup pod coffee maker, less than 5 inches wide.",
+    "price": 89.99,
+    "stock": 180,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/keurig_mini_1", "url": "https://images.unsplash.com/photo-1610889556528-9a770e32642f?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/keurig_mini_2", "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "rajesh",
+    "numOfReviews": 8700,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "dyson v11 vacuum cleaner",
+    "description": "Cordless stick vacuum with high torque cleaner head and LCD screen.",
+    "price": 599.99,
+    "stock": 40,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/dyson_v11_1", "url": "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/dyson_v11_2", "url": "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=800&auto=format&fit=crop" }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "rajesh",
+    "numOfReviews": 2400,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "philips sonicare diamondclean electric toothbrush",
+    "description": "5 modes, smart timer, and glass charger for optimal oral health.",
+    "price": 199.99,
+    "stock": 100,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/sonicare_1", "url": "https://images.unsplash.com/photo-1559591937-abc5e0c8e19a?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/sonicare_2", "url": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "rajesh",
+    "numOfReviews": 5600,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "cera ve moisturizing cream",
+    "description": "Daily face and body moisturizer with hyaluronic acid and 3 essential ceramides.",
+    "price": 16.99,
+    "stock": 300,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/cerave_cream_1", "url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/cerave_cream_2", "url": "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Beauty & Personal Care",
+    "seller": "rajesh",
+    "numOfReviews": 15000,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "neutrogena hydro boost water gel",
+    "description": "Oil-free face moisturizer with hyaluronic acid for deep hydration.",
+    "price": 19.49,
+    "stock": 250,
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/neutrogena_gel_1", "url": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/neutrogena_gel_2", "url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Beauty & Personal Care",
+    "seller": "rajesh",
+    "numOfReviews": 8200,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "the ordinary niacinamide 10% serum",
+    "description": "Targets uneven skin tone, blemishes, and visible shine.",
+    "price": 7.90,
+    "stock": 400,
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/ordinary_niacin_1", "url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/ordinary_niacin_2", "url": "https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Beauty & Personal Care",
+    "seller": "rajesh",
+    "numOfReviews": 11000,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "olaplex no. 3 hair perfector",
+    "description": "Treatment that reduces breakage and visibly strengthens hair.",
+    "price": 28.00,
+    "stock": 180,
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/olaplex_3_1", "url": "https://images.unsplash.com/photo-1631730486587-d46f5b99d666?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/olaplex_3_2", "url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Beauty & Personal Care",
+    "seller": "rajesh",
+    "numOfReviews": 6400,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "crest 3d white whitestrips",
+    "description": "Professional level teeth whitening kit with 20 treatments.",
+    "price": 44.99,
+    "stock": 220,
+    "ratings": 4.4,
+    "images": [
+      { "public_id": "products/crest_white_1", "url": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/crest_white_2", "url": "https://images.unsplash.com/photo-1581585504056-400d22031990?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Beauty & Personal Care",
+    "seller": "rajesh",
+    "numOfReviews": 9100,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "lego technic lamborghini sián fkp 37",
+    "description": "Detailed 1:8 scale model replica with working V12 engine and steering.",
+    "price": 379.99,
+    "stock": 30,
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/lego_lambo_1", "url": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/lego_lambo_2", "url": "https://images.unsplash.com/photo-1558089687-f282ffcbc0d4?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Toys & Games",
+    "seller": "rajesh",
+    "numOfReviews": 870,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  },
+  {
+    "name": "monopoly classic board game",
+    "description": "Buy, sell, dream and scheme your way to riches in this classic family board game.",
+    "price": 19.99,
+    "stock": 150,
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/monopoly_1", "url": "https://images.unsplash.com/photo-1640464200427-0d5e0d12a3c2?q=80&w=1000&auto=format&fit=crop" },
+      { "public_id": "products/monopoly_2", "url": "https://images.unsplash.com/photo-1606503153255-59d8b8b82176?q=80&w=1000&auto=format&fit=crop" }
+    ],
+    "category": "Toys & Games",
+    "seller": "rajesh",
+    "numOfReviews": 2100,
+    "reviews": [],
+    "user": "6a553da34a2e04c09675979d"
+  }
+]
